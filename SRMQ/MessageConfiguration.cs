@@ -4,7 +4,7 @@
     {
         public MessageConfiguration()
         {
-            RoutingKey = "Cimplx";
+            RoutingKey = "SRMQ";
         }
 
         public string Message { get; set; }

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ", "RabbitMQ\RabbitMQ.csproj", "{0984BABF-7B06-4034-94D8-B2DB15A75F6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRMQ", "SRMQ\SRMQ.csproj", "{0984BABF-7B06-4034-94D8-B2DB15A75F6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
